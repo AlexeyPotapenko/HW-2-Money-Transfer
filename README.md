@@ -17,3 +17,4 @@ https://www.getcreditcardnumbers.com/
 Тестирование производилось в следующем окружении:
 * Windows 10 pro 64x
 * <11.0.5>
+d
