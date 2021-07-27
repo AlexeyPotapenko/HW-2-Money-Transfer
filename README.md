@@ -9,7 +9,7 @@
 Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-Тест-кейс:
+[Тест-кейс](https://docs.google.com/spreadsheets/d/1CC4AyR1p8yBP6JZQ34phkennrsbOu05h_AmyGpmQTmY/edit#gid=0)
 
 В результате тестирования выявлены следующие дефекты:
 [Неверное итоговое значение при пополнении счёта VIP-клиента](https://github.com/AlexeyPotapenko/HW-2-Money-Transfer/issues/1#issue-946401419)
